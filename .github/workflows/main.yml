@@ -624,6 +624,131 @@ jobs:
           chmod +x sh/ch99.sh
           ./sh/ch99.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch100.sh
+          ./sh/ch100.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch101.sh
+          ./sh/ch101.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch102.sh
+          ./sh/ch102.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch103.sh
+          ./sh/ch103.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch104.sh
+          ./sh/ch104.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch105.sh
+          ./sh/ch105.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch106.sh
+          ./sh/ch106.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch107.sh
+          ./sh/ch107.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch108.sh
+          ./sh/ch108.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch109.sh
+          ./sh/ch109.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch110.sh
+          ./sh/ch110.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch111.sh
+          ./sh/ch111.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch112.sh
+          ./sh/ch112.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch113.sh
+          ./sh/ch113.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch114.sh
+          ./sh/ch114.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch115.sh
+          ./sh/ch115.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch116.sh
+          ./sh/ch116.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch117.sh
+          ./sh/ch117.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch118.sh
+          ./sh/ch118.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch119.sh
+          ./sh/ch119.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch120sh
+          ./sh/ch120sh
 
           
       - name: git add

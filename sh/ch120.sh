@@ -8,4 +8,4 @@ cd $(dirname $0)/scripts/
 
 python3 ch102.py > ../../live/ch102.m3u8
 
-echo ch102 grabbed
+echo ch120 grabbed

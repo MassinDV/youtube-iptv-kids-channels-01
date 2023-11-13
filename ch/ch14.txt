@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Peppa Pig TV |  KKids TV |  |
-https://www.youtube.com/@PeppaPigOfficial/live
+simonsuperconejoes |  KKids TV |  |
+https://www.youtube.com/channel/UCaF8Cwux8-_81MVDx87Eo5Q/live

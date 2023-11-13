@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Nickelodeon Nederlands | Kids TV |  |
-https://www.youtube.com/channel/UCTfMaiRjr3goFg_Iqie2I8g/live
+Barbie | Kids TV |  |
+https://www.youtube.com/channel/UCadtap8RYMNy8w4K9lXhzpQ/live

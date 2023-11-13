@@ -1,6 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Fluffy Friends: Kids Song Show |  Kids TV |  |
-https://www.youtube.com/@fluffyfriendskidssongs/live
+Beep Beep - Nursery Rhymes |  Kids TV |  |
+https://www.youtube.com/channel/UCc0cGIbYYj79_IUI2A70UjQ/live
 

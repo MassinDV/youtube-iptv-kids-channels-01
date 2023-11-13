@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Wanas  | Kids TV |  |
-https://www.youtube.com/@user-eq7xw7bv2r/live
+Nick Jr. Arabia  | Kids TV |  |
+https://www.youtube.com/channel/UCOGBA-T3jCfOPey73FzsxCw/live

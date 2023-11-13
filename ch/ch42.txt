@@ -1,5 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-NuNu Tv | Kids TV |  |
-https://www.youtube.com/@NuNuTVNurseryRhymes/live
+
+As Aventuras de Sunny Bunnies | Kids TV |  |
+https://www.youtube.com/channel/UCMp1HlbhBf4FTUOJXFN6Gkg/live

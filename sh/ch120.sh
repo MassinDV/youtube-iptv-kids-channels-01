@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 ch120.py > ../../live/ch120.m3u8
+python3 ch120.py > ../../live/ch107.m3u8
 
-echo ch9 grabbed
+echo ch120 grabbed

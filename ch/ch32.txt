@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Robocar POLI TV | Kids TV |  |
-https://www.youtube.com/@robocarpoli/live
+toyorlive | Kids TV |  |
+https://www.youtube.com/channel/UCZbpK_Lgctew3YNELlG2ecw/live

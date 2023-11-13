@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Baby TV | Kids TV |  |
-https://www.youtube.com/@BabyTV/live
+supertoonstv-fr | Kids TV |  |
+https://www.youtube.com/channel/UCE6LObtIIyUymAejzHJ73GA/live

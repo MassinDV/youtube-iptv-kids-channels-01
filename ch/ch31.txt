@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Strawberry Shortcake | Kids TV |  |
+https://www.youtube.com/@StrawberryShortcake/live

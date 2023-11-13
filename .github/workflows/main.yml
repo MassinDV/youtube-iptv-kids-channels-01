@@ -747,8 +747,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch120sh
-          ./sh/ch120sh
+          chmod +x sh/ch120.sh
+          ./sh/ch120.sh
 
           
       - name: git add

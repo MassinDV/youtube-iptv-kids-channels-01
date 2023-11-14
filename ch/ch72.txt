@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Moonbug Kids | Kids TV|  |
-https://www.youtube.com/@MoonbugKids_CartoonNursery/live
+The Smurfs | Kids TV|  |
+https://www.youtube.com/channel/UCeY4C8Sbx8B4bIyREPSvORQ/live

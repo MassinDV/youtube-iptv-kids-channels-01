@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701184653/ei/LLBlZdm_O_-VsfIP26CnmAU/ip/52.157.4.130/id/nV1mYQONgh4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr5---sn-4g5ednsl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4i9KZEk-Xi_N4IGMJd5ybLfIktlgqAbXm-Dog/vprv/1/playlist_type/DVR/mh/bh/mm/44/mn/sn-4g5ednsl/ms/lva/mv/u/mvi/5/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1701161681/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgG_GOKI0zdwQdrhsf4IVnN32OgLbRkY1z4J9DmXDeFkgCIGCk2iJi8yFl-XDKP-rEpHBQO0dcgZMiMv2VhDXXvsWV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgUJhDWcC8sx75rAfh6wxBbAB43UqwqmWV73IpjA3MxVwCIQCu29lc-kFkZD2kL2pmOe-6BiBqFoJnDnufN20G4WUxlA%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/sesamestreet.m3u8

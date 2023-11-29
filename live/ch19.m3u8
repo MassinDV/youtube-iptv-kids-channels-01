@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/pollypocket.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701274701/ei/7Q9nZYC7BoeZ2_gPheeR-Ak/ip/172.183.32.36/id/laYhjD5OvMs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsknzl.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f9ZhAZsN3-jHRhYOpK2GLHqu8ExRp7FmUSpGrg/vprv/1/playlist_type/DVR/mh/w0/mm/44/mn/sn-vgqsknzl/ms/lva/mv/u/mvi/3/pl/14/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701252211/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgE3IqFPRAbi9eceW0cay71Y8hT64wBadkDibYnD80KDYCIQC643tPAVW9GcLyVwb3t1Ugns8D5fqWcMk_rhWXFs71FA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAJxGMufZQifbSw_6TP_zpRqoJeuLjONIWC2vA261mEoUAiEA4z6zanWyW65qqaf7jHrOk6-Cl94ofrCL7TErrbg0olc%3D/playlist/index.m3u8

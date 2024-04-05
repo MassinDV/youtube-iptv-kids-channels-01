@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/firsttoons.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712330184/ei/aMEPZueDBO_hlu8P-aGL6AQ/ip/172.183.161.214/id/enHuCtUcoM0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknze.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0D1z_1dxfCgy8iuFZHNi7a_4h6rAQELkjxJhhCOAfqzMFqbJIOP6Q/vprv/1/playlist_type/DVR/mh/ku/mm/44/mn/sn-vgqsknze/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/fexp/51141542/mt/1712308040/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMbK5CQ3pT8g4uSOlkGVK5Bch_VMTnRkoEQAO2k2bP_1AiEAi5lfnxp7hjSagMMwClB-dlqXpYzvisCGVh6vkn1W0HM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgAto0-CWCwSP2brPKGT7a6xkOrnXdPaZ3UbKwq5o5XpgCIA1oBoc54pp5tE2KYMM3a6gojAFFsIZewT2taW0f9-xg/playlist/index.m3u8

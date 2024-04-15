@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/alwaantv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713240945/ei/EKcdZqWiObLbsfIP2e-qiA0/ip/52.238.24.176/id/vBzCtsRYtdg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-q4fzene7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyzHSqUlvfFmmcwIQhP-qE5tHXO90eaUv_savdaec8g_l3S41TxrS2fP/vprv/1/playlist_type/DVR/mh/X_/mm/44/mn/sn-q4fzene7/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1713218623/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKEC3B-dI_za2aKybr2MUnIIgO8xBf2_LDi1lclzPzwNAiBDF_V1K8h9O8GRdmEu2feJFm63p5CMbKTpGWjUN0XWwg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAPDun2hHCwyG6ejnLCqn_tx3uSsHEOlktszX0Diva3HyAiEAuVSSpuSjOqK_I1WdXijKXL7x9HbWiXbwTq4_n0ne7ks%3D/playlist/index.m3u8

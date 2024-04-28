@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714360485/ei/RbwuZvyhHfL4lu8P9KaX-A8/ip/172.183.132.96/id/xukNtI-dl0U.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrnsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxdSQRBGD3v3BUkNMfgsPP1SQY17p2RnjMNOvUbJLwhmPPyCJqSL5pB7/vprv/1/playlist_type/DVR/mh/68/mm/44/mn/sn-vgqsrnsy/ms/lva/mv/u/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/mt/1714338342/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgJ82c192kUiAaq1ra8b_wZj9x1QxTzz4j2hNsUzcxAxkCIQD75UfvKdllWxOEv3pQdmKr1CSYYVlXG7VrAqJl4lpLJg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAKKbRDDmfw0egVqrYnirskMJTZtcmBEpNL4WbRU87aiSAiBuU7d5Nu9Kgb4UJT5oFEcz3IrVdG0XbrY-nd5TB9Wmfw%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/barbieFrancais.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/super-mango-tv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715095227/ei/W_I5ZoqhGKO2sfIP9duROA/ip/13.91.69.172/id/mW2SIgYxJtg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-o097znzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Ij/mm/44/mn/sn-o097znzk/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1715073112/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgSPbLfssXHI5CM0n34JaNuJtbhDqbb_WzJffV0CAVOtsCIAFSUdkzljRERailqD9qbBTQ-_JAn7d4xQXRw4bqMMh3/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgL0m8hZ9xJ1Qt7KQrsCgD5d8JirfV_Q09t1_kVOZvUcUCICyju_5nuHkFjzx54Htl6gQyx8X8f7UnzdfFnpxmD3b7/playlist/index.m3u8

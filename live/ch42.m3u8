@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716474114/ei/ovxOZuDfIJ-ssfIP64KmiAk/ip/52.238.27.79/id/RWyE6AhYIOk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-a5mlrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Mq/mm/44/mn/sn-a5mlrnl6/ms/lva/mv/u/mvi/5/pl/24/dover/11/pacing/0/keepalive/yes/mt/1716451484/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgSXeMlnovgqpSMq6OhhzWYIAxHrT_k8to43sfMiPT2msCIHjeBc1TxUgar9_hMqPWdQHmWJNE05BwSYn3mVAfQuwI/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgNoWzHQgWYtJxxkguOkbfM9voiJSd3riT9tEkPgZ2064CIA-YTWT9qoJOgfLw-yOIRJlo9WN-baIw_CJXb7089sk7/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/asaventurasdesunnybunnies.m3u8

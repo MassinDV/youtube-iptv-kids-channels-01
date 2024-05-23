@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/cartoonnetworkasia.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716481202/ei/UhhPZtDlC-6zkucPhdebiAY/ip/20.55.118.209/id/45Y5cDu6Y20.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsknll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/vprv/1/playlist_type/DVR/mh/KF/mm/44/mn/sn-vgqsknll/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/mt/1716458627/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRAIgUv5ZBAgeW4vZnP8RWaIy2xW7haYO0Zx88bxt8R4edGsCIEl8DlkUPUhGHVYI50PAT9kKUARqKpPuTAWqaucicVQH/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhALb7RyZolLlO2NBCMspRApVlq7s0kDQYPccfZ7-xP9f_AiBE5z283kPsMCZD2UC9nWFgtSUTi9PN_aXDbmtTBw2HDQ%3D%3D/playlist/index.m3u8

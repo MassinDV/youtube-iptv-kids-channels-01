@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/okolele-arabic.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717586237/ei/3fRfZpa3HKuoir4PuKCwsAg/ip/172.183.146.179/id/CaaLNMTXpE0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0vAqsHBr64aTf9nnxgvgHpv8cGJfwA_j172KqZEaW4P4r40aRQEwtpIFhE/vprv/1/playlist_type/DVR/mh/Ks/mm/44/mn/sn-vgqsrnsr/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717564149/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgOTFa2EtI5Xj0BcPWxYZlG0D-ENY8mMQwaCoIq6a4Xh4CIGDAo_04ce7vSe2uEum7VBn_N9vc_K0ePw0eB5zuZnwC/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAK2k-CDEnZROtrcX1fT_F1jiWoaE5r-joEulerMA4z5CAiEA-WfWSm4q_9cqy_LfV-2C3rZW0lPtkjh7VYp07tTCc_8%3D/playlist/index.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721409351/ei/50qaZrnFHN7AsfIP5p21yAM/ip/52.225.76.184/id/Fjp2TdlTTIU.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-o097znzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/NO7bAReJZ164LOikZrIzj-I-pGRdCOAOMd9eLQzlj5q6kUegfPrgferERehr3MI/vprv/1/playlist_type/DVR/mh/VA/mm/44/mn/sn-o097znzd/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1721387427/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRAIgXhSLJyV21lVGo7Vl9GGGxqtR6JeKQL0YjJrojWNjw94CIBKz58iK0sbZwwW22PWs4yp6Pe3qAr0zkLB6htzq-dAP/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAOvYxTqmz4fefW_uWRRigDiKFkUAB0FWsFbP5RVt3hIDAiBngdZydsNiirgc6VQ4EcQMXDzK-yizr5FpRfLZJt7a6w%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/disney-xd.m3u8

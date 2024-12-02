@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 ArryadiaTVMaroc | Sports|  |
-https://www.youtube.com/@ArryadiaTVMaroc/live
+https://www.youtube.com/channel/UCRN5ho3UGhUi7ZCBe2G2f2w/live

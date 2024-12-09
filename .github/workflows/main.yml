@@ -756,10 +756,6 @@ jobs:
           git add -A
           ls -la 
           
-      - name: Commit changes
-  run: |
-    if ! git diff --quiet; then
-      git commit -m "link is updated"
-    else
-      echo "No changes to commit"
-    fi
+- name: Commit changes
+  run: git commit -m "link is updated"
+  continue-on-error: true
